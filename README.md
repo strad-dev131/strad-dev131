@@ -20,7 +20,7 @@
 
 > `strad-dev131` isn’t a username — it’s a protocol.
 
-I’m **Stradio** — a solo developer focused on **automation**, **AI tools**, and **fast-moving codebases**. I don’t do bloated apps or corporate bloat — I ship fast, quietly, and clean.
+I’m **Sid** — a solo developer focused on **automation**, **AI tools**, and **fast-moving codebases**. I don’t do bloated apps or corporate bloat — I ship fast, quietly, and clean.
 
 - CLI-first.  
 - API always.  
