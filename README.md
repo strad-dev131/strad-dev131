@@ -29,40 +29,79 @@ I’m **Sid** — a solo developer focused on **automation**, **AI tools**, and 
 
 ---
 
-## 🚀 Featured Portfolio
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td>
       <a href="https://github.com/strad-dev131/music"><b>🎵 music</b></a><br>
-      <sub>My experimental music platform - code, bots, vibes.</sub>
+      <sub>
+        An experimental platform for music lovers — bots, APIs, and pure code magic.  
+        <br><i>Explore new ways to create, share, and automate music discovery.</i>
+      </sub>
     </td>
     <td>
       <a href="https://github.com/strad-dev131/TeamXmusic3.0"><b>🤖 TeamXmusic3.0</b></a><br>
-      <sub>Next-gen community music bot. Modular, lightning-fast, API-powered.</sub>
+      <sub>
+        Next-gen community music bot.<br>
+        Modular, lightning-fast, API-powered.<br>
+        <i>Designed for seamless streaming, advanced controls, and ultimate reliability.</i>
+      </sub>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/strad-dev131/Robot"><b>🛠️ Robot</b></a><br>
-      <sub>Automation unleashed. CLI tools for the code-savvy.</sub>
+      <sub>
+        Automation unleashed!<br>
+        CLI tools built for speed, precision, and extensibility.<br>
+        <i>From repetitive tasks to complex system orchestration — all handled with elegance.</i>
+      </sub>
     </td>
     <td>
       <a href="https://github.com/strad-dev131/BioLink-Protector"><b>🔒 BioLink-Protector</b></a><br>
-      <sub>Security for your bio links. Scripting against spam & abuse.</sub>
+      <sub>
+        Guard your bio links from spam, abuse, and malicious actors.<br>
+        <i>Smart scripts, relentless protection, and zero downtime.</i>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/strad-dev131/TeamXmusic2.0"><b>🎶 TeamXmusic2.0</b></a><br>
+      <sub>
+        The roots of TeamXmusic3.0.<br>
+        <i>Where community-driven music automation first took shape.</i>
+      </sub>
+    </td>
+    <td>
+      <b>✨ More coming soon!</b><br>
+      <sub>
+        I believe in rapid iteration and open innovation.<br>
+        <i>Stay tuned for upcoming AI tools, bots, and system scripts.</i>
+      </sub>
     </td>
   </tr>
 </table>
 
 ---
 
+## 🧠 What I Build
+
+- **Automation Engines**: Making the complex simple; scripts that run your world.
+- **AI-Powered Bots**: Music, moderation, and more — powered by smart APIs.
+- **Secure Systems**: Always on guard; protecting users and data with streamlined code.
+- **Minimal UIs, Maximal Control**: Interfaces that do more by doing less.
+
+---
+
 ## 🔧 Stack
 
 ```bash
-> LANGS:       Python, JavaScript, C++
-> STACK:       FastAPI, Flask, React, Tailwind
-> OPS:         Git, Docker, GitHub Actions
-> DOMAIN:      AI • Automation • CLI Tools • Systems Scripting
+> LANGUAGES:  Python, JavaScript, C++
+> FRAMEWORKS: FastAPI, Flask, React, Tailwind
+> DEVOPS:     Git, Docker, GitHub Actions
+> DOMAINS:    AI • Automation • CLI Tools • Systems Scripting
 ```
 
 ---
